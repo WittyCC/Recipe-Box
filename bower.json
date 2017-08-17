@@ -1,0 +1,17 @@
+{
+  "name": "angular2-to-do",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Witty Chang <wcc1213@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wcchang1382/Recipe-Box",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
